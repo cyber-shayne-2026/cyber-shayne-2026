@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Cybersecurity Home Lab]
+- [Cybersecurity Home Lab](https://github.com/cyber-shayne-2026/cybersecurity-homelab)
 
 <h2> Certifications </h2>
 
